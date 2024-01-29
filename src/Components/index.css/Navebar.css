@@ -1,0 +1,74 @@
+ul{
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+    margin:10px;
+    
+}
+
+#a,#b,#c{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 50px;
+    color: white;
+}
+
+#stiky{
+    position: fixed;
+    background-color: rgb(41, 49, 49);
+    border-radius: 20px;
+    margin-left: 260px;
+    height: 55px;
+}
+
+#booking{
+    height:40px ;
+    width: 150px;
+    background-color: rgb(41, 49, 49);
+    color: white;
+    border-radius: 20px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+}
+
+#booking:hover{
+    background-color: rgb(68, 80, 80) ;
+}
+
+
+
+
+
+#a:hover{
+    color: gold;
+}
+#b:hover{
+    color: gold;
+}
+#c:hover{
+    color: gold;
+}
+
+#button{
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(74, 72, 72);
+    border: 2px solid white;
+    color: white;
+    transition: transform 0.3s ease 0s;
+}
+#button:hover{
+    background-color: rgb(4, 4, 4);
+    transform: translateY(-10px);
+}
+
+
+

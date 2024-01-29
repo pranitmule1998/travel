@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": 0
+    },
+    {
+      "name": "pranit",
+      "mobile": "3",
+      "destination": "Mexico",
+      "id": 1
+    },
+    {
+      "name": "pranit mule",
+      "mobile": "1234",
+      "destination": "India",
+      "id": 2
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "destination": "Select Destination",
+      "id": 3
+    },
+    {
+      "name": "pranit",
+      "mobile": "",
+      "destination": "Select Destination",
+      "id": 4
+    },
+    {
+      "name": "karti",
+      "mobile": "1234",
+      "destination": "Combodia",
+      "id": 5
+    },
+    {
+      "name": "w",
+      "mobile": "11",
+      "destination": "India",
+      "id": 6
+    }
+  ]
+}
